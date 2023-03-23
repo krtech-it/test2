@@ -1,7 +1,9 @@
-ывx = 12
+x = 12
 y = 13
 z = 45
 print(x)
-print(x+y+z)
+print(x+x+z)
+print(z)
 print(y)
 print(z)
+
