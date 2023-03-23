@@ -4,6 +4,11 @@ z = 45
 print(x)
 print(x+x+z)
 print(z)
+dev
 print(y)
 print(z)
+dev
+dev
+dev
+
 
