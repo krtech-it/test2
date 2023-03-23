@@ -4,3 +4,4 @@ z = 45
 print(x)
 print(x+y+z)
 print(y)
+print(z)
