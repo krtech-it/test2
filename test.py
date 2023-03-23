@@ -13,5 +13,6 @@ dev
 dev
 dev
 main
+server
 
 
